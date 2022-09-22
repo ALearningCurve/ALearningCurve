@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Will Walling-Sotolongo 👋
 
-<!--
-**ALearningCurve/ALearningCurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-ws/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://alearningcurve.github.io/me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a
+- Computer Science Major with a Minor in Business at Northeastern 🧑‍💻
+- Programmer and on the EBoard for the Northeastern Mars Rover Team 🤖
+- Intramural volleyball and badminton player 🏐🏸
+- Snowboarder, cooking enthusiest, and sci-fi book lover 🏂🍳📖
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alearningcurve&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
