@@ -7,6 +7,7 @@
 ## I am a
 - Computer Science Major with a Minor in Business at Northeastern 🧑‍💻
 - Programmer and on the EBoard for the Northeastern Mars Rover Team 🤖
+- A life-long Learner 📚
 - Intramural volleyball and badminton player 🏐🏸
 - Snowboarder, cooking enthusiest, and sci-fi book lover 🏂🍳📖
 
