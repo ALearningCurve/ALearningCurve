@@ -8,7 +8,11 @@
 - Computer Science Major with a Minor in Business at Northeastern 🧑‍💻
 - Programmer and on the EBoard for the Northeastern Mars Rover Team 🤖
 - A life-long Learner 📚
-- Intramural volleyball and badminton player 🏐🏸
-- Snowboarder, cooking enthusiest, and sci-fi book lover 🏂🍳📖
+- Intramural volleyball, ultimate frisbee, and badminton player 🏐🏸
+- Snowboarder, foodie, and sci-fi book lover 🏂🍳📖
+
+## More About Me
+Make sure to visit both my [Linked In](https://www.linkedin.com/in/will-ws/) and my [personal website](https://alearningcurve.github.io/me/) for more information!
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alearningcurve&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
