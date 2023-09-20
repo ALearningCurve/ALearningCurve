@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://alearningcurve.github.io/me/)
 
 ## I am a
-- Computer Science Major with a Minor in Business at Northeastern 🧑‍💻
+- Computer Science + Business Administration Major with a concetration in Buisness Analytics at Northeastern 🧑‍💻
 - Programmer and on the EBoard for the Northeastern Mars Rover Team 🤖
 - A life-long Learner 📚
 - Intramural volleyball, ultimate frisbee, and badminton player 🏐🏸
